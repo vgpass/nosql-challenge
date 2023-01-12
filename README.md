@@ -69,13 +69,13 @@ In the repository are the completed challenge files.
 
 *Deliverable 2: NoSQL Analysis*
 
-Which establishments have a hygiene score equal to 20? *There are **41** establishments with that score. Results are saved as **hygiene_20_est.csv** *
+Which establishments have a hygiene score equal to 20? *There are **41** establishments with that score. Results are saved as **hygiene_20_est.csv***
 
-Which establishments in London have a RatingValue greater than or equal to 4? *There are **29** restaurants that fit this criteria. Results are saved as **london_gte_4.csv** *
+Which establishments in London have a RatingValue greater than or equal to 4? *There are **29** restaurants that fit this criteria. Results are saved as **london_gte_4.csv***
 
-What are the top 5 establishments with a RatingValue of '5', sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"? *There are **2,115** establishments that fit this criteria. The complete dataframe is saved as **nearby_locations.csv**. * 
+What are the top 5 establishments with a RatingValue of '5', sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"? *There are **2,115** establishments that fit this criteria. The complete dataframe is saved as **nearby_locations.csv**.* 
 
-How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas. *There are **55** restaurants that fit this criteria. Results are saved as **zero_hygiene.csv**
+How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas. *There are **55** restaurants that fit this criteria. Results are saved as **zero_hygiene.csv***
 
 Here is my result:
 
