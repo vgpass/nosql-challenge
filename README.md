@@ -7,11 +7,11 @@ Due January 12, 2023
 
 # **Introduction**
 
-This challenge required two deliverables. First, a notebook that scraped a Mars News website for the article titles and preview text. Once the scraping was accomplished, it was saved into a python list. The second deliverable was a notebook that scraped a website with a table that had temperature and atmospheric pressure data collected by Curiosity, a mars-rover vehicle, roughly the size of a car. The data in the table was collected from 8/16/2012 through 02/27/2018, a period of about five-and-a-half years. The table was scraped and a dataframe created from which graphs were produced to display the minimum temperatures and atmospheric pressure grouped by month.
+This challenge required two deliverables. First, a notebook that set up the NoSQL database with establishment data including location and scores. A new restaurant was added and changes were made to the data types to allow later analysis. The second deliverable was an analysis. In this notebook, several questions were asked which required various queries, and the building of a query pipeline. The results are discussed below.
 
 # **Files**
 
-In the folder *mars_web_analysis* are the completed challenge files.
+In the repository are the completed challenge files.
 
 * *NoSQL_setup_final.ipynb* - my jupyter notebook with the set-up script for the NoSQL challenge.
 * *NoSQL_analysis_final.ipynb* - my jupyter notebook with the analysis script for the NoSQL challenge, and answers to questions
